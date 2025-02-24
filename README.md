@@ -18,6 +18,7 @@ API, **Onion Architecture** prensiplerine göre tasarlanmış olup, iş mantığ
 - **Backend API**: C# ve SQL Server kullanılarak geliştirilmiştir.
 - **Veritabanı**: SQL Server
 - **Mimari**: Backend'de Onion Architecture kullanılmıştır.
+- **Swagger**: API'nin dokümantasyonunu ve test edilmesini sağlamak için Swagger entegrasyonu yapılmıştır.
  
 ## Gereksinimler
 - SQL Server (veritabanı için)
